@@ -8,7 +8,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP&logoColor)
 ![C-SHARP](https://img.shields.io/badge/c%23%20-090909.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/java-090909.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-090909.svg?&style=for-the-badge&logo=java&logoColor=%23ED8B00)
 
 ### Follow Me
 
