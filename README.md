@@ -1,4 +1,4 @@
-### I am interested in information security and write plugins for PocketMine-MP
+### I am interested in information security and write plugins for PocketMine-MP\Nukkit\MiNET
 
 # My Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TwistedAsylumMC&show_icons=true&count_private=true)
