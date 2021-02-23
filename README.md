@@ -1,8 +1,8 @@
 ### I am interested in information security and write plugins for PocketMine-MP\Nukkit\MiNET
 
 # My Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TwistedAsylumMC&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwistedAsylumMC&langs_count=4&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ComorDev&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComorDev&langs_count=4&layout=compact)
 
 ### Language and Tools
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E53DFF)
