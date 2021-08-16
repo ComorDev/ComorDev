@@ -15,5 +15,5 @@
 ### Follow Me
 
 ![Gmail](https://img.shields.io/badge/ComorDev-black?style=for-the-badge&logo=gmail&logoColor=D14836)
-[![VK](https://img.shields.io/badge/VK-black.svg?&style=for-the-badge&logo=VK)](https://vk.com/comordev)
+
 [![VK](https://img.shields.io/badge/Telegram-black.svg?&style=for-the-badge&logo=telegram)](https://t.me/comordev)
